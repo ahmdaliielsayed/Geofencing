@@ -1,5 +1,5 @@
-Geofencing - Starter code
-========================
+Geofencing
+===========
 
 Solution code for Advanced Android with Kotlin Codelab
 
@@ -29,4 +29,3 @@ Getting Started
 
 Note: If you are running this app on an emulator, you will need to use another app to pull location data from.
 This is because geofencing relies on device sensors to detect the location of the device, which the emulator cannot access.
-"# Geofencing" 
